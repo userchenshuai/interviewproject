@@ -4,18 +4,16 @@
   height: 138px;
   padding: 12px 16px;
   border-radius: 4px;
+  cursor: pointer;
+  /* transition: all .3s; */
+  margin-right: 24px;
+  margin-bottom: 16px;
 }
 
 .arco-card-header {
   border-bottom: 0 !important;
 }
 
-.my_card {
-  cursor: pointer;
-  /* transition: all .3s; */
-  margin-right: 24px;
-  margin-bottom: 16px;
-}
 
 .my_card:hover {
   background-color: #E8F3FF;
